@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# Cloud Computing Security 
+For my first article, I cover the vulnerabilities and concerns of cloud computing software as a primary use of remote services managed by big corporations. My second article focuses on the benefits of companies moving their infrastructure to the cloud and examines the benefits of a company incorporating efficient cloud security practices. 
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1 
+In CRN’s [Google Outage Shows Public Cloud Computing Is ‘Not Invincible'](https://www.crn.com/news/cloud/google-outage-shows-public-cloud-computing-is-not-invincible-?itc=refresh), they make note of how big corporations that rely on cloud computing likely to encounter vulnerabilities and loss. People have expressed concern about this because Amazon and Microsoft through their cloud computing technologies suffered from issues prior. Implementing protections to anticipate these issues would ultimately help companies maintain their credibility and prepare resources for their consumers and themselves.
+
+Since public cloud storage has become increasingly popular over the years, corporations are expected to maintain their systems and always have a backup plan in the event of an issue. As technology is not perfect, there is an expectation that outages and shutdowns are inevitable for cloud services; however, this article makes light of how these effects can be detrimental if companies and people are ill-prepared for such occurrences. If not checked, and consumers lose important data, corporations risk extensive loss of revenue as well as credibility. 
+
+## Article 2 
+While the first article exposes the risks and mishaps of cloud computing, the second article from TBConsulting's [Investing in the Hybrid Cloud Journey](https://blog.tbconsulting.com/investing-in-the-hybrid-cloud-journey) delves into aspects of cloud computing that can protect against the vulnerability concerns from the first article. Even though there are in fact security concerns, this blog notes how companies can invest in cloud computing solutions through providers such as TBConsulting to prevent substantial loss. Focusing on developing a hybrid cloud approach where both public and private cloud enables corporations to be flexible in managing data so as not to rely heavily on one system as the first article suggests. 
+
+With two technologies, and continuously updated solutions, there is room for expansion to improve business processes so the cloud services are more reliable for customers and structured for companies so that they remain competitive. It is important to be dynamic as the world continues to change and the demands evolve as well— notably after the impact the pandemic had on network systems.
